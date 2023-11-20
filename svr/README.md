@@ -10,7 +10,7 @@
 PATH = "$YOUR_PATH_HERE"
 PW = "$YOUR_PW_HERE"
 ```
-`sudo pacman -S python-fastapi python-requests uvicorn`  
+`sudo pacman -S python-fastapi python-requests uvicorn python-typing_extensions`  
 
 `sudo nano /etc/systemd/system/naan.service`  
 ```
