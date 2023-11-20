@@ -3,7 +3,7 @@
 ### setup
 `sudo mkdir -p /usr/local/etc/`  
 `cd /usr/local/etc`  
-`git clone https://github.com/critiqalfish/naan`  
+`sudo git clone https://github.com/critiqalfish/naan.git`  
 
 `sudo nano naan/svr/naan.py`  
 ```
